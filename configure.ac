@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 #AC_PREREQ(2.60)
-AC_INIT(myhelloworld, 1.0, gbmhunter@gmail.com)
+AC_INIT(myhelloworld, 1.0, aryarnair1995@gmail.com)
 AC_CONFIG_SRCDIR([HelloWorld.c])
 AC_CONFIG_HEADER([config.h])
 AM_INIT_AUTOMAKE(myhelloworld, main)
